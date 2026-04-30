@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Hiya%2C%20I'm%20Kenny%20%F0%9F%91%8B&fontSize=50&fontAlignY=38&desc=offensive%20security%20%C2%B7%20engineering%20%C2%B7%20design&descSize=16&descAlignY=62)
+![header](./header.svg)
 
 <div align="center">
 
