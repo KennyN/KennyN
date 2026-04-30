@@ -1,11 +1,5 @@
 ![header](./header.svg)
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+agentic+AI+for+security+ops;Offensive+security+%2B+software+%2B+design;Always+shipping)](https://git.io/typing-svg)
-
-</div>
-
 I work across offensive security, software engineering, and product design. Building agentic AI for security ops.
 
 ![Product Design](https://img.shields.io/badge/Product%20Design-FF6B9D?style=for-the-badge&logo=figma&logoColor=white&logoSize=auto)
