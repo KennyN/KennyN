@@ -19,7 +19,3 @@ I work across offensive security, software engineering, and product design. Buil
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Contribution snake
-
-![snake gif](https://raw.githubusercontent.com/KennyN/KennyN/output/github-contribution-grid-snake.svg)
