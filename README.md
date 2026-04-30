@@ -8,10 +8,10 @@
 
 I work across offensive security, software engineering, and product design. Building agentic AI for security ops.
 
-🎨 &nbsp;Product design
-💻 &nbsp;Software engineering
-🛡️ &nbsp;Cybersecurity
-🤖 &nbsp;AI development
+![Product Design](https://img.shields.io/badge/%F0%9F%8E%A8%20Product%20Design-FF6B9D?style=for-the-badge)
+![Software Engineering](https://img.shields.io/badge/%F0%9F%92%BB%20Software%20Engineering-4A5568?style=for-the-badge)
+![Cybersecurity](https://img.shields.io/badge/%F0%9F%9B%A1%EF%B8%8F%20Cybersecurity-16A34A?style=for-the-badge)
+![AI Development](https://img.shields.io/badge/%F0%9F%A4%96%20AI%20Development-7C3AED?style=for-the-badge)
 
 ### Fluent in
 
