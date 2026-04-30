@@ -1,5 +1,7 @@
 ![header](./header.svg)
 
+### About me
+
 I work across offensive security, software engineering, and product design. Building agentic AI for security ops.
 
 ![Product Design](https://img.shields.io/badge/Product%20Design-FF6B9D?style=for-the-badge&logo=figma&logoColor=white&logoSize=auto)
